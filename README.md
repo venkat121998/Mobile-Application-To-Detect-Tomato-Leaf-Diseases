@@ -21,14 +21,14 @@ Accounting to almost 6.0% of the total tomato production in the world. Tomato is
 4. Open the **Rest_Api** folder in the vs code editor.
 
 5. Open the terminal in the vs code editor and type the following command (This will start the flask server)
-  ```
-    flask run --host=0.0.0.0 --port=5000
-  ```
+ ```
+   flask run --host=0.0.0.0 --port=5000
+ ```
   
 6. Open the command prompt and type the following command to get the ipv4 address of the system that's running the flask server
-```
-    ipconfig
-```
+ ```
+   ipconfig
+ ```
 
 7. Replace the ipv4 addresss in the following files
 _Mobile-Application-To-Detect-Tomato-Leaf-Diseases/tomatoleaf/app/src/main/res/xml/network_security_config.xml_
