@@ -8,7 +8,7 @@ Accounting to almost 6.0% of the total tomato production in the world. Tomato is
   * Visual Studio Code
   * Python 3.7
   
-2. The below mentioned python packages are reqired for running this project
+2. The below mentioned python packages are required for running the project
   * Flask
   * Numpy
   * Pandas 
@@ -16,7 +16,7 @@ Accounting to almost 6.0% of the total tomato production in the world. Tomato is
   * Keras
   * Tensorflow
   
-3. Once the softwares and packages are installed in the system, clone this reposiory into a folder in the local machine.
+3. Once the softwares and packages are installed in the system, clone the current reposiory into a folder in the local machine.
 
 4. Open the **Rest_Api** folder in the vs code editor.
 
@@ -36,9 +36,9 @@ _Mobile-Application-To-Detect-Tomato-Leaf-Diseases/tomatoleaf/app/src/main/java/
 
 8. Open the android project tomatoleaf using android studio and run the application using the emulator.
 
-9. The Application will be installed and will open the installed application by name _Pestilence_
+9. An application by name _Pestilence_ will be installed, Open the installed android application.
 
-10. A User can either register using his/her email and password and login with the registered credentials to the application or click on skip.
+10. A User can either register using his/her email & password and login with the registered credentials to the application or click on skip ,to skip the registration.
 
 11. A demo will be showcased for the user on how to use the app for the purpose of understanding the application.
 
