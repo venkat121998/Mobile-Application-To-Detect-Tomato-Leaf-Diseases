@@ -27,7 +27,7 @@ Accounting to almost 6.0% of the total tomato production in the world. Tomato is
   
 6. Open the command prompt and type the following command to get the ipv4 address of the system that's running the flask server
 ```
-ipconfig
+    ipconfig
 ```
 
 7. Replace the ipv4 addresss in the following files
