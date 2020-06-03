@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "762016314163",
+    "firebase_url": "https://tomato-leaf-disease.firebaseio.com",
+    "project_id": "tomato-leaf-disease",
+    "storage_bucket": "tomato-leaf-disease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762016314163:android:5191e78190eb8986150446",
+        "android_client_info": {
+          "package_name": "com.example.tomatoleafdisease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762016314163-e8l6daspdhvqg4phguo00oirnhq5fk5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tomatoleafdisease",
+            "certificate_hash": "48048c1acb44b74b02d7020d2e354952be6f9506"
+          }
+        },
+        {
+          "client_id": "762016314163-vurh04q52efsruipk9ldj59lujkdf7jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtCGIZokAzEJ5EpiABJzl778Sr-ZpsNHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762016314163-vurh04q52efsruipk9ldj59lujkdf7jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
